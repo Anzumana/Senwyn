@@ -22,12 +22,15 @@ ControlGroupAssign7=Shift+7
 ControlGroupAssign8=Shift+8
 ControlGroupAssign9=Shift+9
 GameTooltipsOn=
+WarpIn=
 
 [Commands]
 Attack=R
 BurrowDown=
 BurrowUp=
+Hatchery/Drone=D
 HunterSeekerMissile/Raven=
+MorphMorphalisk/Queen=Y
 MothershipCoreMassRecall/MothershipCore=
 MothershipMassRecall/Mothership=
 OracleRevelation/Oracle=
@@ -39,4 +42,6 @@ SporeCrawlerRoot/SporeCrawlerUprooted=
 SporeCrawlerUproot/SporeCrawler=
 SwarmHostBurrowDown=
 SwarmHostBurrowUp=
+Transfusion/Queen=
+zerglingmovementspeed/SpawningPool=W
 
