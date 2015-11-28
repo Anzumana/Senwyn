@@ -1,6 +1,8 @@
 [Settings]
 
 [Hotkeys]
+Sound=
+CameraCenter=Option+F
 ControlGroupAppend0=Control+0
 ControlGroupAppend1=Control+1
 ControlGroupAppend2=Control+2
@@ -22,6 +24,23 @@ ControlGroupAssign7=Shift+7
 ControlGroupAssign8=Shift+8
 ControlGroupAssign9=Shift+9
 GameTooltipsOn=
+MinimapColors=
+CameraSave0=Control+R
+CameraSave1=Control+T
+CameraSave2=Control+F
+CameraSave3=Control+G
+CameraSave4=Control+C
+CameraSave5=Control+V
+CameraSave6=Control+D
+CameraSave7=Control+S
+CameraView0=Shift+R
+CameraView1=Shift+T
+CameraView2=Shift+F
+CameraView3=Shift+G
+CameraView4=Shift+C
+CameraView5=Shift+V
+CameraView6=Shift+D
+CameraView7=Shift+S
 
 [Commands]
 ActivateIbikisCannon/PlanetaryFortress=
